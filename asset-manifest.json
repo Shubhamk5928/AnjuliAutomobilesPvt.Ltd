@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/AnjuliAutomobilesPvt.Ltd/static/css/main.e392854f.css",
+    "main.js": "/AnjuliAutomobilesPvt.Ltd/static/js/main.2b981ef2.js",
+    "static/media/home-image1.png": "/AnjuliAutomobilesPvt.Ltd/static/media/home-image1.66507f0fd6ab2adf4d9b.png",
+    "static/media/royal_enfield_logo.png": "/AnjuliAutomobilesPvt.Ltd/static/media/royal_enfield_logo.390a520e2aa54735dcd7.png",
+    "index.html": "/AnjuliAutomobilesPvt.Ltd/index.html",
+    "main.e392854f.css.map": "/AnjuliAutomobilesPvt.Ltd/static/css/main.e392854f.css.map",
+    "main.2b981ef2.js.map": "/AnjuliAutomobilesPvt.Ltd/static/js/main.2b981ef2.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e392854f.css",
+    "static/js/main.2b981ef2.js"
+  ]
+}
